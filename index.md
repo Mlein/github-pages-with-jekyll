@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Mika Leinonen: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Nyt loppuu se jauhaminen.
